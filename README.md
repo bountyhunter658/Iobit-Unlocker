@@ -214,4 +214,4 @@ IObit Unlocker is available as a full free version, with all features and update
 Unlock your files today with IObit Unlocker—download now and experience the freedom of file management!
 
 ---
-**Last updated:** 2026-10-25 21:31:00 UTC
+**Last updated:** 2026-10-25 23:55:00 UTC
